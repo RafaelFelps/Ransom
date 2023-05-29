@@ -1,2 +1,2 @@
 # Ransom
-Ransomware developed for study purposes.
+Ransomware developed ONLY for study purposes.
